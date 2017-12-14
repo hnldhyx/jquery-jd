@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>京东</title>
+	<link rel="stylesheet" href="assets/css/reset.css">
+	<link rel="stylesheet" href="assets/css/index.css">
+	<link rel="stylesheet" href="assets/css/hyxui.css">
+</head>
+<body>
+	<div class="wrap">
+		<div class="main-container">
+			<!-- 头部广告 -->
+			<div class="header-ad"></div>
+			<!-- 登录、注册部分 -->
+			<div class="shortcut"></div>
+			<!-- 头部 -->
+			<div class="header clearfix"></div>
+			<!-- nav/slide等区域 -->
+			<div class="article clearfix"></div>
+			<!-- 京东秒杀 -->
+			<div id="seckill"></div>
+			<!-- 发现好货、会买专辑、排行榜 -->
+			<div id="fbr" class="clearfix"></div>
+			<!-- 领券中心、觅me -->
+			<div id="cs" class="clearfix"></div>
+			<!-- 小广告 -->
+			<div id="cs-content-ad" class="content-ad"></div>
+			<!-- 享品质 -->
+			<div id="quality"></div>
+			<!-- 再来一个小广告 -->
+			<div id="quality-content-ad" class="content-ad"></div>
+			<!-- 爱生活 -->
+			<div id="life"></div>
+		</div>
+		<!-- footer -->
+		<div class="footer"></div>
+	</div>
+	<!-- input -->
+	<div id="search">
+		<div class="search-inner">
+			<div class="search-logo"></div>
+			<div class="search-area">
+				<input type="text">
+				<div class="header-search-camera">
+					<label for="search-upload" title="未选择任何文件"></label>
+					<input id="search-upload" type="file" accept="image/png,image/jpeg,image/jpg">
+				</div>
+				<div class="header-search-btn"></div>
+			</div>
+		</div>
+	</div>
+	<!-- to top -->
+	<div id="anchor">
+		<ul>
+			<!-- <li class="anchor-item" data-position="1890">享品质</li>
+			<li class="anchor-item">服饰美妆</li> -->
+			<li class="anchor-item to-top">顶部</li>
+		</ul>
+	</div>
+</body>
+<script src="assets/js/lib/require.js"></script>
+<script src="assets/js/lib/config.js"></script>
+
+<script>
+	require(['assets/js/lib/jquery.js'], function($){
+		require(['assets/js/main.js'], function(mainApp){
+			mainApp.init();
+		})
+	})
+</script>
+</html>

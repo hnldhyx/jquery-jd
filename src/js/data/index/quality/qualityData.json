@@ -1,0 +1,79 @@
+{
+	"data": {
+		"normal": [{
+			"imgUrl": "/assets/images/index/quality/quality_list1.png",
+			"url": "xxx",
+			"theme": "#66B687",
+			"title": "新品首发",
+			"description": "魅蓝Note6新品首发"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list2.png",
+			"url": "xxx",
+			"theme": "#DBCF6E",
+			"title": "会逛",
+			"description": "潮流服饰 5折清仓"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list3.png",
+			"url": "xxx",
+			"theme": "#534b5d",
+			"title": "奢侈大牌",
+			"description": "尽享品质生活 "
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list4.png",
+			"url": "xxx",
+			"theme": "#3b838c",
+			"title": "智能生活",
+			"description": "智能潮货，嗨购不停"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list5.png",
+			"url": "xxx",
+			"theme": "#d58717",
+			"title": "京东超市",
+			"description": "精选超值好货 天天特价"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list6.png",
+			"url": "xxx",
+			"theme": "#7e5944",
+			"title": "白条商城",
+			"description": "最高12期免息"
+		}],
+		"large": [{
+			"imgUrl": "/assets/images/index/quality/quality_list_slideshow1.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list_slideshow2.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list_slideshow3.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list_slideshow4.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list_slideshow5.png",
+			"url": "xxx"
+		}],
+		"small": [{
+			"imgUrl": "/assets/images/index/quality/quality_list_small8.png",
+			"url": "xxx",
+			"theme": "rgba(100,38,99,.7)",
+			"title": "全球尖货",
+			"description": "全球自营好货"
+		},{
+			"imgUrl": "/assets/images/index/quality/quality_list_small7.png",
+			"url": "xxx",
+			"theme": "rgba(169,57,47,.7)",
+			"title": "设计师推荐",
+			"description": "全球设计精选"
+		}]
+	},
+	"meta": {
+		"status": "200",
+		"message": "ok"
+	},
+	"page": {
+		"pageNo": 1,
+		"totalPage": 1,
+		"pageSize": 1
+	}
+}
