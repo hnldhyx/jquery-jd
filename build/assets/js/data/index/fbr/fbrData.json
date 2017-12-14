@@ -1,0 +1,223 @@
+{
+	"data": {
+		"find": [{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		},{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		},{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		},{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		},{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		},{
+			"text": "罗莱纱支天丝四件套",
+			"imgUrl": "/assets/images/index/fbr/fbr_find_list.png",
+			"url": "//fxhh.jd.com/#1398812"
+		}],
+		"buy": [{
+			"imgUrl": "/assets/images/index/fbr/fbr_buy_list1.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/fbr/fbr_buy_list2.png",
+			"url": "xxx"
+		},{
+			"imgUrl": "/assets/images/index/fbr/fbr_buy_list3.png",
+			"url": "xxx"
+		}],
+		"rank": {
+			"header": [{
+				"text": "键盘",
+				"label": "keyboard"
+			},{
+				"text": "休闲食品",
+				"label": "leasureFood"
+			},{
+				"text": "糖果/巧克力",
+				"label": "candy"
+			},{
+				"text": "水果",
+				"label": "fruit"
+			},{
+				"text": "数据库",
+				"label": "database"
+			}],
+			"detail": {
+				"keyboard": [{
+					"rank": 1,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "现代（HYUNDAI）HY-MA75有线键盘"
+				},{
+					"rank": 2,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "罗技（Logitech）K120键盘"
+				},{
+					"rank": 3,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "罗技（Logitech）K120键盘"
+				},{
+					"rank": 4,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "罗技（Logitech）K120键盘"
+				},{
+					"rank": 5,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "罗技（Logitech）K120键盘"
+				},{
+					"rank": 6,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list1.png",
+					"url": "xxx",
+					"text": "罗技（Logitech）K120键盘"
+				}],
+				"leasureFood": [{
+					"rank": 1,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品1"
+				},{
+					"rank": 2,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品2"
+				},{
+					"rank": 3,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品3"
+				},{
+					"rank": 4,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品4"
+				},{
+					"rank": 5,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品5"
+				},{
+					"rank": 6,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list2.png",
+					"url": "xxx",
+					"text": "休闲食品6"
+				}],
+				"candy": [{
+					"rank": 1,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-1"
+				},{
+					"rank": 2,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-2"
+				},{
+					"rank": 3,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-3"
+				},{
+					"rank": 4,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-4"
+				},{
+					"rank": 5,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-5"
+				},{
+					"rank": 6,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list3.png",
+					"url": "xxx",
+					"text": "糖果/巧克力-6"
+				}],
+				"fruit": [{
+					"rank": 1,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-1"
+				},{
+					"rank": 2,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-2"
+				},{
+					"rank": 3,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-3"
+				},{
+					"rank": 4,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-4"
+				},{
+					"rank": 5,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-5"
+				},{
+					"rank": 6,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list4.png",
+					"url": "xxx",
+					"text": "水果-6"
+				}],
+				"database":  [{
+					"rank": 1,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-1"
+				},{
+					"rank": 2,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-2"
+				},{
+					"rank": 3,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-3"
+				},{
+					"rank": 4,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-4"
+				},{
+					"rank": 5,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-5"
+				},{
+					"rank": 6,
+					"imgUrl": "/assets/images/index/fbr/fbr_rank_list5.png",
+					"url": "xxx",
+					"text": "数据库-6"
+				}]
+			}
+		}
+	},
+	"meta": {
+		"status": "200",
+		"message": "ok"
+	},
+	"page": {
+		"pageNo": 1,
+		"totalPage": 1,
+		"pageSize": 1
+	}
+}

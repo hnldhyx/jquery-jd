@@ -1,0 +1,106 @@
+{
+	"data": {
+		"onsale": [{
+			"text": "罗莱品牌日满799减400",
+			"url": "//sale.jd.com/act/IgO1iEK26a5n3.html"
+		},{
+			"text": "居家好物暖暖季跨店3件7折",
+			"url": "//sale.jd.com/act/oCYWHIRfan.html"
+		},{
+			"text": "家电12.12礼金提前领",
+			"url": "//sale.jd.com/act/pT3uDsBoMVNEac8.html"
+		},{
+			"text": "每日享折扣 京东品质游",
+			"url": "//trip.jd.com/"
+		}],
+		"notice": [{
+			"text": "广州部分地区受道路限行、交通管制影响配送延迟公告",
+			"url": "//www.jd.com/news.aspx?id=36172"
+		},{
+			"text": "关于召回普利司通（天津）轮胎有限公司2个规格乘用车轮胎的公告",
+			"url": "//www.jd.com/news.aspx?id=36083"
+		},{
+			"text": "京东物流推出配送员统一外呼电话“95056”",
+			"url": "//www.jd.com/news.aspx?id=35887"
+		},{
+			"text": "天府大件运营中心开仓公告",
+			"url": "//www.jd.com/news.aspx?id=35772"
+		}],
+		"tools": [{
+			"text": "话费",
+			"imgPosition": "0 -88px",
+			"url": "//chongzhi.jd.com/",
+			"type": "bill",
+			"tag": "惠",
+			"quickAccess": true
+		},{
+			"text": "机票",
+			"imgPosition": "0 -44px",
+			"url": "//jipiao.jd.com/",
+			"type": "planeTicket",
+			"quickAccess": true
+		},{
+			"text": "酒店",
+			"imgPosition": "-44px -88px",
+			"url": "//hotel.jd.com/",
+			"type": "hotel",
+			"quickAccess": true
+		},{
+			"text": "火车票",
+			"imgPosition": "-88px -88px",
+			"url": "//train.jd.com/",
+			"type": "trainTickets",
+			"quickAccess": true
+		},{
+			"text": "企业购",
+			"imgPosition": "-88px -44px;",
+			"url": "//b.jd.com/",
+			"type": "businessPurchase"
+		},{
+			"text": "加油卡",
+			"imgPosition": "0 0",
+			"url": "//jiayouka.jd.com/",
+			"type": "refuelingCard"
+		},{
+			"text": "电影票",
+			"imgPosition": "-44px -44px",
+			"url": "//movie.jd.com/index.html",
+			"type": "cinemaTicket",
+			"tag": "减"
+		},{
+			"text": "游戏",
+			"imgPosition": "-88px 0",
+			"url": "//game.jd.com/",
+			"type": "game"
+		},{
+			"text": "众筹",
+			"imgPosition": "-132px 0",
+			"url": "//z.jd.com/sceneIndex.html?from=jrscyn_20162",
+			"type": "crowdFunding"
+		},{
+			"text": "理财",
+			"imgPosition": "-132px -44px",
+			"url": "//licai.jd.com/?from=jrscyn_20161",
+			"type": "financialTransactions"
+		},{
+			"text": "礼品卡",
+			"imgPosition": "-132px -88px",
+			"url": "//licai.jd.com/?from=jrscyn_20161",
+			"type": "giftCard"
+		},{
+			"text": "白条",
+			"imgPosition": "-44px 0",
+			"url": "//baitiao.jd.com/?from=jrscyn_20160",
+			"type": "ious"
+		}]
+	},
+	"meta": {
+		"status": "200",
+		"message": "ok"
+	},
+	"page": {
+		"pageNo": 1,
+		"totalPage": 1,
+		"pageSize": 1
+	}
+}

@@ -1,0 +1,2 @@
+/*TMODJS:{"version":1,"md5":"f11936d97583aa0ab16de7a4cbb18cb7"}*/
+define(['../../template',''],function(template){return template('index/shortcut/shortcut_telephone_tpl', '<div class="shortcut-dropdown-wrap shortcut-telephone-wrap"> <div class="shortcut-jdphone clearfix"> <div class="img-holder"></div> <div class="description"></div> </div> <div class="shortcut-jdwechat clearfix"></div> <div class="shortcut-jdinance-app clearfix"></div> </div>');});
