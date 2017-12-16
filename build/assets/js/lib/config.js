@@ -14,7 +14,7 @@ requirejs.config({
     map: {
         '*': {
             'css': 'lib/require/css/css.min',
-            'text': 'lib/require/text'
+            'text': 'lib/text'
         }
     },
 
