@@ -1,6 +1,6 @@
 /*TMODJS:{"version":1,"md5":"d1cf69188223b192294e507e743e0f26"}*/
 define(['../../template',''],function(template){return template('index/shortcut/shortcut_tpl', function($data,$filename
-/*``*/) {
+/**/) {
 'use strict';var $utils=this,$helpers=$utils.$helpers,$escape=$utils.$escape,$each=$utils.$each,value=$data.value,index=$data.index,$out='';$out+='<div class="shortcut-wrap clearfix"> <div class="shortcut-address" data-code="';
 $out+=$escape($data.currentProvince.code);
 $out+='"> <i class="shortcut-address-icon" title="';

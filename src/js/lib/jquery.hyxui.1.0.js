@@ -91,6 +91,7 @@
 			* 挂载到jQuery全局的方法
 			*/
 			$.extend({
+				// 弹窗组件
 				'hyxuiDialogOpen': function(param){
 					return dialogApp.openDialog(param);
 				},
@@ -715,11 +716,11 @@ var dialogApp = {
 
 		// 弹出层的按钮
 		var btnHtml = '';
-		for(var i=0; i<param.btn.length; i++){
+		for(var i=0; i<options.btn.length; i++){
 			if(i == 0){
-				btnHtml += '<a class="hyxui-layer-btn' + i + ' btn btn-primary btn-sm">' + param.btn[i] + '</a>';
+				btnHtml += '<a class="hyxui-layer-btn' + i + ' btn btn-primary btn-sm">' + options.btn[i] + '</a>';
 			}else{
-				btnHtml += '<a class="hyxui-layer-btn' + i + ' btn btn-default btn-sm">' + param.btn[i] + '</a>';
+				btnHtml += '<a class="hyxui-layer-btn' + i + ' btn btn-default btn-sm">' + options.btn[i] + '</a>';
 			}
 			
 		}
