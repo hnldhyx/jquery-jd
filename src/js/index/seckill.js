@@ -1,7 +1,6 @@
 define(['assets/js/common/model.js',
 	'assets/js/common/tool.js',
-	'viewTpl/index/seckill/seckill_tpl',
-	'assets/js/lib/jquery.hyxui.1.0.js'], 
+	'viewTpl/index/seckill/seckill_tpl'], 
 	function(model, toolApp, seckillTpl){
 
 	var self;

@@ -1,6 +1,5 @@
 define(['assets/js/common/model.js',
-	'viewTpl/index/life/life_tpl',
-	'assets/js/lib/jquery.hyxui.1.0.js'], 
+	'viewTpl/index/life/life_tpl'], 
 	function(model, lifeTpl){
 
 	var self;

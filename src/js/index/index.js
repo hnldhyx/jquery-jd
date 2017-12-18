@@ -43,7 +43,7 @@ define(['assets/js/index/render_static_struct.js'],
 			$(document).on('click', '.to-top', function(){
 				$('html').animate({
 					'scrollTop': '0px'
-				},500)
+				},500);
 			})
 		}
 	};

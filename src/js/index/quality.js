@@ -1,6 +1,5 @@
 define(['assets/js/common/model.js',
-	'viewTpl/index/quality/quality_tpl',
-	'assets/js/lib/jquery.hyxui.1.0.js'], 
+	'viewTpl/index/quality/quality_tpl'], 
 	function(model, qualityTpl){
 
 	var self;

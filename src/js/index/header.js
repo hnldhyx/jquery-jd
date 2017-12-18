@@ -1,7 +1,6 @@
 define(['assets/js/common/model.js',
 	'viewTpl/index/header/header_tpl',
 	'viewTpl/index/header/header_cart_tpl',
-	'assets/js/lib/jquery.hyxui.1.0.js',
 	'assets/js/common/clamp.min.js'], 
 	function(model, headerTpl, headerCartTpl){
 

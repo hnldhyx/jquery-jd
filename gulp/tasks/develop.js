@@ -3,7 +3,7 @@ var gulp = require('gulp'),
 	clean = require('gulp-clean');
 
 gulp.task('dev', function(){
-	runSequence('html', 'scss', 'javascript', 'tpl', 'image', 'watch')
+	runSequence('html', 'scss', 'javascript', 'tpl', 'image', 'copy', 'watch')
 })
 
 gulp.task('clean', function(){

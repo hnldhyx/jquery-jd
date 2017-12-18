@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>京东</title>
-	<link rel="stylesheet" href="assets/css/reset.css">
+	<link rel="stylesheet" href="hyxui/css/reset.css">
+	<link rel="stylesheet" href="hyxui/css/hyxui.css">
 	<link rel="stylesheet" href="assets/css/index.css">
-	<link rel="stylesheet" href="assets/css/hyxui.css">
 </head>
 <body>
 	<div class="wrap">
@@ -59,11 +59,11 @@
 		</ul>
 	</div>
 </body>
-<script src="assets/js/lib/require.js"></script>
-<script src="assets/js/lib/config.js"></script>
+<script src="hyxui/js/lib/require.js"></script>
+<script src="hyxui/js/lib/jquery.js"></script>
 
 <script>
-	require(['assets/js/lib/jquery.js'], function($){
+	require(['hyxui/js/lib/config.js', 'hyxui/js/jquery.hyxui.1.0.js'], function(){
 		require(['assets/js/main.js'], function(mainApp){
 			mainApp.init();
 		})
