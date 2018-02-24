@@ -10,4 +10,6 @@
 &nbsp;&nbsp;2、(c)npm i 安装依赖<br>
 &nbsp;&nbsp;3、gulp dev 编译<br>
 &nbsp;&nbsp;4、以编译出来的build文件夹为根目录启动服务<br>
-&nbsp;&nbsp;启动服务可以使用npm安装全局的anywhere，再到build目录下启动控制台输入        anywhere 端口号    即可
+&nbsp;&nbsp;启动服务可以使用npm安装全局的anywhere，再到build目录下启动控制台输入        anywhere 端口号    即可<br>
+Tips:<br>
+&nbsp;&nbsp;1、没有后台，数据在前端通过json伪造，在界面中用ajax请求数据<br>
